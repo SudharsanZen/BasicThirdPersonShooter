@@ -948,7 +948,7 @@ MonoBehaviour:
     m_Bits: 311
   ikActive: 1
   Aiming: 0
-  legRayDist: 1.26
+  legRayDist: 1.31
   footOffset: 0.12
   idleOffsetPose: {x: 0.2, y: -0.15, z: 0.06}
   aimOffsetPose: {x: 0.09, y: 0.01, z: 0.07}
